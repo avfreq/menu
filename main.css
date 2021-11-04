@@ -25,7 +25,7 @@ body {
 }
 .menu-span1::before {
   content: "";
-  mask-image: url(../img/launch.svg);
+  mask-image: url(launch.svg);
   mask-repeat: no-repeat;
   mask-size: cover;
   background-color: #556B2F;
@@ -51,7 +51,7 @@ body {
 }
 .menu-span2::before {
   content: "";
-  mask-image: url(../img/launch.svg);
+  mask-image: url(launch.svg);
   mask-repeat: no-repeat;
   mask-size: cover;
   background-color: #556B2F;
@@ -77,7 +77,7 @@ body {
 }
 .menu-span3::before {
   content: "";
-  mask-image: url(../img/launch.svg);
+  mask-image: url(launch.svg);
   mask-repeat: no-repeat;
   mask-size: cover;
   background-color: #556B2F;
@@ -103,7 +103,7 @@ body {
 }
 .menu-span4::before {
   content: "";
-  mask-image: url(../img/launch.svg);
+  mask-image: url(launch.svg);
   mask-repeat: no-repeat;
   mask-size: cover;
   background-color: #556B2F;
@@ -129,7 +129,7 @@ body {
 }
 .menu-span5::before {
   content: "";
-  mask-image: url(../img/launch.svg);
+  mask-image: url(launch.svg);
   mask-repeat: no-repeat;
   mask-size: cover;
   background-color: #556B2F;
@@ -155,7 +155,7 @@ body {
 }
 .menu-span6::before {
   content: "";
-  mask-image: url(../img/launch.svg);
+  mask-image: url(launch.svg);
   mask-repeat: no-repeat;
   mask-size: cover;
   background-color: #556B2F;
@@ -181,7 +181,7 @@ body {
 }
 .menu-span7::before {
   content: "";
-  mask-image: url(../img/launch.svg);
+  mask-image: url(launch.svg);
   mask-repeat: no-repeat;
   mask-size: cover;
   background-color: #556B2F;
@@ -207,7 +207,7 @@ body {
 }
 .menu-span8::before {
   content: "";
-  mask-image: url(../img/launch.svg);
+  mask-image: url(launch.svg);
   mask-repeat: no-repeat;
   mask-size: cover;
   background-color: #556B2F;
@@ -233,7 +233,7 @@ body {
 }
 .menu-span9::before {
   content: "";
-  mask-image: url(../img/launch.svg);
+  mask-image: url(launch.svg);
   mask-repeat: no-repeat;
   mask-size: cover;
   background-color: #556B2F;
